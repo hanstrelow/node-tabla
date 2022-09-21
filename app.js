@@ -6,7 +6,7 @@
 //git init para inicializar
 //git add. para cargar los archivos (los marca con azul)
 //git commit -m (saca una foto y deja un mensaje)
-//git checkout -- (recupera archivos eliminados)
+//git checkout --. (recupera archivos eliminados)
 const { crearArchivo } = require('./helpers/multiplicar');
 const argv = require('./config/yargs');
  require ('colors');
